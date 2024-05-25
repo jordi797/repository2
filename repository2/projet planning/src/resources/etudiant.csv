@@ -1,0 +1,13 @@
+ID_Etudiant,Nom_Etudiant,ID_Promotion,ID_Examen
+ETU1,Jean Dupont,PROMO1,EXAM1
+ETU2,Marie Durand,PROMO1,EXAM1
+ETU3,Pierre Dubois,PROMO1,EXAM5 
+ETU4,Sophie Martin,PROMO1,EXAM5
+ETU5,Alice Lefebvre,PROMO2,EXAM2 
+ETU6,Julien Moreau,PROMO2,EXAM2
+ETU7,Camille Leroy,PROMO2,EXAM6
+ETU8,Thomas Bernard,PROMO2,EXAM6
+ETU9,Laura Garcia,PROMO3,EXAM3
+ETU10,Lucas Petit,PROMO3,EXAM3 
+ETU11,Manon Roussel,PROMO4,EXAM4
+ETU12,Antoine Dubois,PROMO4,EXAM4

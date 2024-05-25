@@ -1,0 +1,7 @@
+ID_Examen,Nom_Examen,Duree (min),ID_Promotion,Nb_Inscrits
+EXAM1,Algorithmique,120,PROMO1,120
+EXAM2,Analyse,180,PROMO2,80
+EXAM3,Mécanique,90,PROMO3,150
+EXAM4,Chimie,60,PROMO4,90
+EXAM5,Bases de données,120,PROMO1,100 
+EXAM6,Probabilités,90,PROMO2,70
